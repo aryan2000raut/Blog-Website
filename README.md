@@ -8,8 +8,7 @@
 
 #### Primary Azure Technology*: Static Web Apps, Visual Studio Code
 
-### Azure Portal:
-![image](https://user-images.githubusercontent.com/78204872/171397753-c8ac094c-c355-46e6-9367-4d8558bea31c.png)
+
 
 ## Home: 
 ![image](https://user-images.githubusercontent.com/78204872/171393572-7f4cdf62-323c-44bc-afc8-17315468f20f.png)
