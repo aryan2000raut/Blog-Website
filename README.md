@@ -1,6 +1,6 @@
 # Preventive - Consult doctors for any medical need from the Comfort of Your Home
 
-
+#### Website url: https://aryan2000raut.github.io/Blog-Website/index.html
 
 ### Project Description*:
 ##### The idea behind this project is to design a website that allows a user to consult a doctor at the comfort of your home. For this I have designed a webiste Preventive that allows you to book your appoinment with the doctor with your email address, mobile number and date of birth. I have created the website using HTML, CSS and JavaScirpt and designed the website on visual studio code. Then I have pushed the code on Github and then using Azure static web apps deployed the website on azure.
