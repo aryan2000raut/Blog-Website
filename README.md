@@ -1,7 +1,6 @@
 # Preventive - Consult doctors for any medical need from the Comfort of Your Home
 
-### Azure Website:- https://red-beach-00647d610.1.azurestaticapps.net
-### Github Repo Link:- https://github.com/TanmayRao7/Azure-FRT-Project.git
+
 
 ### Project Description*:
 ##### The idea behind this project is to design a website that allows a user to consult a doctor at the comfort of your home. For this I have designed a webiste Preventive that allows you to book your appoinment with the doctor with your email address, mobile number and date of birth. I have created the website using HTML, CSS and JavaScirpt and designed the website on visual studio code. Then I have pushed the code on Github and then using Azure static web apps deployed the website on azure.
